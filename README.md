@@ -69,14 +69,14 @@
 
 </details>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=khushichetule09&label=Visitors&color=181717&style=flat](https://komarev.com/ghpvc/?username=aditya-deshmukh9&label=Profile%20views&color=0e75b6&style=flat)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-deshmukh9&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adi-de9/adi-de9/output/snake.svg">
 </picture>
-<br>
+<br> 
 
 <!-- 💖 Contact -->
 ### You can reach me at: **<adityadesh937@gmail.com>**
