@@ -73,8 +73,8 @@
 
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adi-de9/adi-de9/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adi-de9/adi-de9/blob/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/adi-de9/adi-de9/blob/output/github-snake-dark.svg">
 </picture>
 <br> 
 
